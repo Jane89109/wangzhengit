@@ -7,8 +7,8 @@ package com.zhonghangxin.factory2;
  class hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+            
+		System.out.println("this is commit test !!");
 	}
 
 }
